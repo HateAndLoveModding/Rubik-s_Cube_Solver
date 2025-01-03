@@ -1,0 +1,6 @@
+U' B R U U D' L' F' U R' F B U B' U' R' D L' B L' 
+U R U' U U U F' U U U U R U' U U R U' U U U U R R B B U L L U U F F U F F R R B B L L 
+U R' D R D U U D R' D R D U U U R' D' R D U U D U R' D D R D R' D' R D U' R' D' R D D D D U' R' D D R D R' D' R D U 
+D' R' D R D F D' F' D' R' D R D F D' F' E U' D' R' D R D F D' F' E' U E U' D L D' L' D' F' D F E' U D D D E E U' U' D L D' L' D' F' D F E E U' U' 
+D D D F L D L' D' F' D F L D L' D' F' D L D L' D L' D' L L D' L' D L' D L D D 
+D D L D' R' D L' D' R D D D D D L D' R' D L' D' R D D D D' L D D L' D' L D' L' R' D D R D R' D R D D' L D D L' D' L D' L' R' D D R D R' D R L D D L' D' L D' L' R' D D R D R' D R D 
